@@ -1,6 +1,6 @@
 ### Olá! Sou o Victor Rodrigues Torres 👋
 
-- 🔭 Atualmente trabalho com Microservices em Java/Node.js
+- 🔭 Atualmente trabalho com Microservices em Java
 - 🌱 Estou cursando Análise e Desenvolvimento de Sistemas na FATEC
 - 📫 Contate-me no e-mail: rodriguest.victor98@gmail.com
 
